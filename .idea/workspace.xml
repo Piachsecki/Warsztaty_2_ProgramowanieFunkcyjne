@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9cbd94b-36a4-4878-b765-34b7d95311db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Warsztaty_2_ProgramowanieFunkcyjne.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/MyConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Project/Transformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/ex2/TriFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/BiPredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/SupplierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/functionInterfaces/UnaryOperatorExample.java" afterDir="false" />
+    <list default="true" id="a9cbd94b-36a4-4878-b765-34b7d95311db" name="Changes" comment="Programowanie Funkcyjne - interfejsy">
+      <change afterPath="$PROJECT_DIR$/src/streamy/amigos_code/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/amigos_code/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/amigos_code/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/differences/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_posrednie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_posrednie_podsumowanie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_terminujace/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_terminujace_podsumowanie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/prymitywy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -52,13 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,8 +56,17 @@
       <option name="presentableId" value="Default" />
       <updated>1674318082386</updated>
       <workItem from="1674318083635" duration="8477000" />
-      <workItem from="1674390885898" duration="11422000" />
+      <workItem from="1674390885898" duration="15420000" />
+      <workItem from="1674472264919" duration="19502000" />
     </task>
+    <task id="LOCAL-00001" summary="Programowanie Funkcyjne - interfejsy">
+      <created>1674410473031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674410473031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programowanie Funkcyjne - interfejsy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programowanie Funkcyjne - interfejsy" />
   </component>
 </project>
