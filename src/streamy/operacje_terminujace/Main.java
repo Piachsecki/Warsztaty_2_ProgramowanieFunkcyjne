@@ -55,17 +55,18 @@ public class Main {
 //        System.out.println(reduce);
 //
 //
-//        Optional<String> reduce1 = Arrays.stream(someChars).reduce((a, b) -> a + "\\" + b);
-//        System.out.println(reduce1);
-//
+
+
+
 //
 //        String start = Stream.of(someChars).reduce("start", (a, b) -> a + "//" + b);
 //        System.out.println(start);
 
         String collect = Arrays.stream(someChars).collect(Collectors.joining(";"));
-
-//        Stream.of(someChars).collect(() -> new ArrayList<Character>());
         System.out.println(collect);
+//
+////        Stream.of(someChars).collect(() -> new ArrayList<Character>());
+//        System.out.println(collect);
 
 
     }

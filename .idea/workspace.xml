@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9cbd94b-36a4-4878-b765-34b7d95311db" name="Changes" comment="Programowanie Funkcyjne - interfejsy">
-      <change afterPath="$PROJECT_DIR$/src/streamy/amigos_code/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/amigos_code/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/amigos_code/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/differences/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_posrednie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_posrednie_podsumowanie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_terminujace/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/operacje_terminujace_podsumowanie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamy/prymitywy/Main.java" afterDir="false" />
+    <list default="true" id="a9cbd94b-36a4-4878-b765-34b7d95311db" name="Changes" comment="praca ze streamami">
+      <change afterPath="$PROJECT_DIR$/src/streamy/collectory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/collectory_podsumowanie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/exercises/exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/exercises/exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/exercises/exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/exercises/exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/exercises/exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/streamy/notatki_przyklady/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streamy/operacje_terminujace/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streamy/operacje_terminujace/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +57,9 @@
       <updated>1674318082386</updated>
       <workItem from="1674318083635" duration="8477000" />
       <workItem from="1674390885898" duration="15420000" />
-      <workItem from="1674472264919" duration="19502000" />
+      <workItem from="1674472264919" duration="19530000" />
+      <workItem from="1674556575581" duration="13410000" />
+      <workItem from="1674641095783" duration="3265000" />
     </task>
     <task id="LOCAL-00001" summary="Programowanie Funkcyjne - interfejsy">
       <created>1674410473031</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674410473031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="praca ze streamami">
+      <created>1674522381393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674522381393</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Programowanie Funkcyjne - interfejsy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Programowanie Funkcyjne - interfejsy" />
+    <MESSAGE value="praca ze streamami" />
+    <option name="LAST_COMMIT_MESSAGE" value="praca ze streamami" />
   </component>
 </project>
